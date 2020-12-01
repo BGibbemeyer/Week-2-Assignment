@@ -28,6 +28,6 @@ for (var i = 1; i <= 100; i+=2) {
      }
 
      if (!(d % 3) && !(d % 5)) {
-         console.log("Hello World");~
+         console.log("Hello World");
      }
- }
+    } 

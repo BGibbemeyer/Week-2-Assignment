@@ -1,14 +1,3 @@
-var help = "HELLLLLLLPPPP";
-console.log (help)
-
-var temperature = 80;
-var isHotOutside = "It's HOTTTTT!!!";
-
-if(temperature > 70) {
-    console.log(isHotOutside);
-} else {
-    console.log("Not hot today");
-}
 
 var isHotOutside = true;
 var isWeekday = !true;
